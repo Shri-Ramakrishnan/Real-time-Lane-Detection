@@ -2,7 +2,7 @@
 
 # === Real-Time Road Lane Detection for Autonomous Vehicles (Enhanced) ===
 # Dataset: ashikadnan/driving-video-for-lane-detection-various-weather (KaggleHub)
-# Author: ChatGPT GPT-5
+
 # Dependencies: OpenCV, NumPy (both available in Colab)
 
 import cv2
